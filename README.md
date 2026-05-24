@@ -1,5 +1,4 @@
-## I'm not him
-![DaviMoreira27's Stats](https://github-readme-stats.vercel.app/api?username=DaviMoreira27&theme=dracula&show_icons=true&hide_border=false&count_private=false)
+## Hi!
 <!--
 **DaviMoreira27/DaviMoreira27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
